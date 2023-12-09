@@ -112,6 +112,8 @@ print(file5.read())
 file5.close()
 
 # API
-
+API is a programming interface, that is, a description of the possibilities of using a single—user program with friends.
 
 # SOCKET
+Socket is the name of the software interface for providing data exchange between processes. 
+The processes in such an exchange can be executed both on one computer and on different computers connected only by a network.
